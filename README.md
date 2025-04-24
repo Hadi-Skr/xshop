@@ -160,14 +160,6 @@ php artisan client
 php artisan build
 ```
 
-### theme parts file
-
-- PartName.php: `onCreate`, `onRemove`, `onMount` actions of theme part
-- PartName.blade.php: your theme part blade code
-- PartName.scss: your theme part scss
-- PartName.js: your theme part javascript
-- screenshot.png: screenshot preview of theme part
-
 ## Demo
 
 > Online demo available here: <a href="https://xshop.xstack.ir/login">https://xshop.xstack.ir/</a>
